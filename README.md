@@ -1,2 +1,2 @@
 # FCfriends
-New website for customizable bplush toys. 3yrs+.
+New website for customizable plush toys. 3yrs+.

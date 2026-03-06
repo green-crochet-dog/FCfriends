@@ -1,0 +1,32 @@
+/* basic header styles */
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #dcc5a1;
+  border-bottom: 2px solid #ddd;
+}
+
+.site-header .logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.site-header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+.site-header nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.site-header nav a:hover {
+  color: #007bff;
+}
